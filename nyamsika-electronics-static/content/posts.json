@@ -1,6 +1,15 @@
 {
   "posts": [
     {
+      "id": "post-1793554983467",
+      "title": "myopop",
+      "category": "News",
+      "date": "2026-11-01",
+      "body": "oloo",
+      "image": "../assets/uploads/1793554978437-icon.png",
+      "video": ""
+    },
+    {
       "id": "post-1793554315387",
       "title": "my e",
       "category": "News",

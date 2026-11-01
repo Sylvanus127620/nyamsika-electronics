@@ -1,7 +1,6 @@
-// Public site configuration. These values are not secret.
 window.NYAMSIKA_CONFIG = {
-  githubOwner: "YOUR_GITHUB_USERNAME",
-  githubRepo: "YOUR_REPOSITORY_NAME",
+  githubOwner: "Sylvanus127620",
+  githubRepo: "nyamsika-electronics",
   branch: "main",
-  postsFile: "content/posts.json"
+  postsFile: "nyamsika-electronics-static/content/posts.json"
 };

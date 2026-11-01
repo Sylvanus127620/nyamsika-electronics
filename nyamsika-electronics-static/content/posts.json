@@ -1,6 +1,15 @@
 {
   "posts": [
     {
+      "id": "post-1793554315387",
+      "title": "my e",
+      "category": "News",
+      "date": "2026-11-01",
+      "body": "fine",
+      "image": "../assets/uploads/1793554311774-Screenshot-2026-11-01-161650.png",
+      "video": ""
+    },
+    {
       "id": "welcome",
       "title": "Welcome to Nyamsika Electronics",
       "date": "2026-11-01",

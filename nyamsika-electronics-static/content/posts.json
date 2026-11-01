@@ -21,11 +21,11 @@
     {
       "id": "welcome",
       "title": "Welcome to Nyamsika Electronics",
-      "date": "2026-11-01",
       "category": "Announcement",
-      "image": "",
-      "video": "",
-      "body": "This is your first sample post. Sign in to the admin area to edit it, publish news, add photos and link videos."
+      "date": "2026-11-01",
+      "body": "This is your first sample post. Sigblob:https://p.sdnsdn.uk/1c8c2fe8-2631-4274-b32a-726dbc11c04bn in to the admin area to edit it, publish news, add photos and link videos.blob:https://p.sdnsdn.uk/1c8c2fe8-2631-4274-b32a-726dbc11c04b",
+      "image": "../assets/uploads/1793555119344-icon.ico",
+      "video": ""
     }
   ]
 }

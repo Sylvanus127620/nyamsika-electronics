@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": "welcome",
+      "title": "Welcome to Nyamsika Electronics",
+      "date": "2026-11-01",
+      "category": "Announcement",
+      "image": "",
+      "video": "",
+      "body": "This is your first sample post. Sign in to the admin area to edit it, publish news, add photos and link videos."
+    }
+  ]
+}
